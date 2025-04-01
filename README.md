@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Muhammed Nadir TB</h1>
 
 <div align="center">
-  <img src="https://github.com/nadirnaju/NadirTB/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="https://github.com/nadirnaju/NadirTB/blob/main/Banner.png" alt="DevOps Banner">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector .</a></h3>
@@ -10,8 +10,8 @@
   <a href="https://github.com/nadirnaju">
     <img src="https://img.shields.io/github/followers/nadirnaju?label=Follow&style=social" />
   </a>
-  <a href="https://linkedin.com/in/adityajaiswal7">
-    <img src="www.linkedin.com/in/muhammed-nadir-t-b-326a66209" />
+  <a href="https://linkedin.com/in/muhammed-nadir-t-b-326a66209">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20NadirTB-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/muhammed-nadir-t-b-326a66209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://instagram.com/nad._.ir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
  </p>
 
 ---
@@ -79,6 +79,6 @@
 🎤 Available for **Guest Sessions / Webinars**  
 🤝 Open to **Project Collaborations / YouTube Collabs**  
 💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
+📧 Let’s chat: (mailto:nadirnaju998@gmail.com)
 
 > *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
