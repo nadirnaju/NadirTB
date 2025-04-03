@@ -22,7 +22,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/nadirnaju](https://github.com/nadirnaju)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
+- 💬 Ask me about **DevSecOps & Cloud DevOps**  
 - 📫 How to reach me **nadirnaju998@gmail.com**
 
 ---
